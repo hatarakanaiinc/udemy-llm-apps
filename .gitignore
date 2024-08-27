@@ -164,3 +164,8 @@ cython_debug/
 # Streamlit
 .streamlit/secrets.toml
 
+# 100knocks-preprocess
+100knocks-preprocess/
+
+# sample.db
+sample.db
